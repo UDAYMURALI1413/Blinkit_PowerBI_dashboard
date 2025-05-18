@@ -57,3 +57,9 @@ Chart's Requirements:
    broken down by different outlet types.
 
    Chart Type :  Matrix Card.
+
+
+   Dashboard :
+
+   <a href="https://github.com/UDAYMURALI1413/Blinkit_PowerBI_dashboard/blob/main/Snapshot_of_Blinkit_Dashboard.png"></a>
+   
