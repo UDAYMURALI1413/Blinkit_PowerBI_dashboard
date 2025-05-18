@@ -1,6 +1,6 @@
 # Blinkit_PowerBI_dashboard
 
-BUSINESS REQUIREMENT:
+<h2>BUSINESS REQUIREMENT:</h2>
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPis and visualizations in Power Bl.
 
@@ -59,7 +59,9 @@ Chart's Requirements:
    Chart Type :  Matrix Card.
 
 
-   Dashboard :
+   <h1>Dashboard :</h1>
 
-   <a href="https://github.com/UDAYMURALI1413/Blinkit_PowerBI_dashboard/blob/main/Snapshot_of_Blinkit_Dashboard.png"></a>
+   <a href="https://github.com/UDAYMURALI1413/Blinkit_PowerBI_dashboard/blob/main/Snapshot_of_Blinkit_Dashboard.png">Dashboard_Link</a>
+   ![image](https://github.com/user-attachments/assets/cbb63b26-9dd8-4e9d-bd91-5cd90e82185c)
+
    
